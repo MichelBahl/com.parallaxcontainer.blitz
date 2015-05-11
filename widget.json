@@ -1,0 +1,13 @@
+{
+	"id": "com.parallaxcontainer.blitz",
+	"name": "com.parallaxcontainer.blitz",
+	"description" : "Offers parallax to whatever is in view",
+	"author": "Michael Bahl",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"MIT",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}
