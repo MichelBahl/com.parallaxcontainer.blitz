@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.parallaxcontainer.blitz":"1.0"}};

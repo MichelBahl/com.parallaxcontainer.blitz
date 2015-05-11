@@ -1,0 +1,41 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="tableView">
+			<TableViewRow height="150dp">
+				<Label text="HEADER"></Label>
+			</TableViewRow>			
+			<TableViewRow height="200dp">
+				<Widget id="parallaxWidget" src="com.parallaxcontainer.blitz"
+						height="120"
+						parallaxIntensity="10"
+						innerMargin="1200">
+					<ImageView image="/images/elevator.jpg"></ImageView>
+				</Widget>
+			</TableViewRow>			
+			<TableViewRow>
+				<Label text="Some other Information"></Label>
+			</TableViewRow>			
+			<TableViewRow backgroundColor="#DEDEDE"></TableViewRow>			
+			<TableViewRow height="Ti.UI.SIZE">
+				<Label text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."></Label>
+			</TableViewRow>			
+			<TableViewRow backgroundColor="#DEDEDE"></TableViewRow>			
+			<TableViewRow></TableViewRow>			
+			<TableViewRow backgroundColor="#DEDEDE"></TableViewRow>			
+			<TableViewRow height="250dp">
+				<Label text="Ensure that there is enough content to scroll"></Label>
+			</TableViewRow>			
+			<TableViewRow height="200dp">
+				<Widget id="parallaxWidgetTwo" src="com.parallaxcontainer.blitz"
+						height="120"
+						parallaxIntensity="10"
+						innerMargin="1200">
+					<ImageView image="/images/elevator.jpg"></ImageView>
+				</Widget>
+			</TableViewRow>		
+			<TableViewRow height="350dp">
+				<Label text="Ensure that there is enough content to scroll"></Label>
+			</TableViewRow>					
+		</TableView>
+	</Window>
+</Alloy>

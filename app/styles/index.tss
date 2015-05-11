@@ -1,0 +1,14 @@
+"Window[platform=ios]" : {
+	fullscreen: true
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"TableViewRow": {
+	height: "42dp",
+	backgroundColor: "#FFFFFF"
+}
