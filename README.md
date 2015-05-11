@@ -64,4 +64,4 @@ iOS:
 
 
 ## Testing
-There is a test app in [example](https://github.com/MichelBahl/de.blitz.infiniteImageScrollableview/tree/example) branch.
+There is a test app in [example](https://github.com/MichelBahl/com.parallaxcontainer.blitz/tree/example) branch.
