@@ -61,7 +61,3 @@ iOS:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rfsXbTPSaK0/0.jpg)](https://youtu.be/rfsXbTPSaK0)
 
-
-
-## Testing
-There is a test app in [example](https://github.com/MichelBahl/de.blitz.infiniteImageScrollableview/tree/example) branch.
