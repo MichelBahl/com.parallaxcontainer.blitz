@@ -8,13 +8,14 @@ pu an an parallax item in.
 
 ## Features
 * Parallax effect
-* Defin parralax Intensity
+* Define parallax Intensity
 * Working for ios and android
 
 
 ## Known issues
 * On android the first move is not smooth
 * On Android parallax only working while fingers on screen, a fast short swipe won't cause any effect
+* Effect intesity differ between ios and android 
 
 
 ### How to
